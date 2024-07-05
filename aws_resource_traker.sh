@@ -8,7 +8,7 @@
 # This Script will report the aws resource usage
 #########################
 
-# Tracking featers R
+# Tracking Options Are
 # AWS S3
 # AWS EC2
 # AWS Lambda
